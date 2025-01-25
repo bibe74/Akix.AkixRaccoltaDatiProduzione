@@ -1,2 +1,0 @@
-# Akix.AkixRaccoltaDatiProduzione
-Akix - AkixRaccoltaDatiProduzione

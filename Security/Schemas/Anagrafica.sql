@@ -1,0 +1,3 @@
+CREATE SCHEMA [Anagrafica]
+AUTHORIZATION [dbo]
+GO
